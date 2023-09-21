@@ -1,7 +1,5 @@
 # Gmail-like UI with React Native
 
-A UI mockup for the new version of [Inkdrop](https://www.inkdrop.app/) for mobile, inspired by Gmail for iOS and Android.
-
 ## Features
 
 - Sticky header bar
@@ -34,7 +32,6 @@ Note: Web is not supported
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) - Free Icons
 - [React Native Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options
 - [jotai](https://jotai.org/) - Primitive and flexible state management for React
-- [React Native Three-Column Layout](https://github.com/craftzdog/react-native-three-column-layout) - A React component providing a three-column layout with animation support for tablet displays
 
 ## Project structure
 
@@ -75,6 +72,3 @@ Apache-2.0
 
 ---
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
-
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
